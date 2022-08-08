@@ -18,7 +18,7 @@ bot.addCommand(
 	async (message, match) => {
 		const date = new Date()
 		let CMD_HELP = `╭────────────────╮
-						ʟᴇᴠᴀɴᴛᴇʀ
+						HyNO-MD
 ╰────────────────╯
 
 ╭────────────────
@@ -94,7 +94,7 @@ bot.addCommand(
 
 		let msg =
 			'```' +
-			`╭═══ LEVANTER ═══⊷
+			`╭═══ HyNO-MD ═══⊷
 ┃❃╭──────────────
 ┃❃│ Prefix : ${PREFIX}
 ┃❃│ User : ${message.pushName}
