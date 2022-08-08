@@ -15,8 +15,8 @@ bot(
 					[
 						{
 							urlButton: {
-								text: 'Example',
-								url: 'https://github.com/lyfe00011/whatsapp-bot-md/wiki/antifake',
+								text: 'HyNO',
+								url: 'https://wa.me/989389383634',
 							},
 						},
 						{ button: { id: 'antifake list', text: 'LIST' } },
