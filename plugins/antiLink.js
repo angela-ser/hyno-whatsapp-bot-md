@@ -16,8 +16,8 @@ bot(
 					[
 						{
 							urlButton: {
-								text: 'Example',
-								url: 'https://github.com/lyfe00011/whatsapp-bot-md/wiki/antilink',
+								text: 'HyNO',
+								url: 'https://wa.me/989389383634',
 							},
 						},
 						{
